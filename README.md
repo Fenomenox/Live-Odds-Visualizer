@@ -9,7 +9,8 @@
 
 <br><br><br>
 <p align="left">
-
+Since github does not render plotly graphs, here is the odds from one example match from Feb 10, 2019
+  
 ![odds](https://github.com/Fenomenox/Live-Odds-Visualizer/blob/master/Valencia%20Demo.PNG)
 </p>
 <br>
